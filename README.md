@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  <img src="image.png" height="20" width="100%"  />
+  <img src="https://raw.githubusercontent.com/tavanhvannala677-beep/tavanhvannala677-beep/main/image/image.png" height="20" width="100%"  />
 </p>
