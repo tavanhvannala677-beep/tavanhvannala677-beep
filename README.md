@@ -1,8 +1,5 @@
 <img src="image/4a2c637f229538bd0d27d6ba07e5da8c.jpg" height="200" width="100%" />
 <!-- รูปภาพหัวแบนเนอร์ของคุณ -->
-<p align="center">
-  <img src="image/4a2c637f229538bd0d27d6ba07e5da8c.jpg" height="350" alt="Banner" />
-</p>
 
 <!-- พิมพ์ดีดข้อความทักทายยาวๆ สีขาว (รอ 3 วิ) -->
 <p align="center">
